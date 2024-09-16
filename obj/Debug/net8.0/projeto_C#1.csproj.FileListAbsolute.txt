@@ -12,3 +12,4 @@ C:\Users\mathe\OneDrive\Área de Trabalho\Cursos\C#\projeto_C#1\obj\Debug\net8.0
 C:\Users\mathe\OneDrive\Área de Trabalho\Cursos\C#\projeto_C#1\obj\Debug\net8.0\projeto_C#1.pdb
 C:\Users\mathe\OneDrive\Área de Trabalho\Cursos\C#\projeto_C#1\obj\Debug\net8.0\projeto_C#1.genruntimeconfig.cache
 C:\Users\mathe\OneDrive\Área de Trabalho\Cursos\C#\projeto_C#1\obj\Debug\net8.0\ref\projeto_C#1.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\Cursos\C#\projeto_C#1\obj\Debug\net8.0\projeto_C#1.sourcelink.json
